@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "297192391974",
+    "project_id": "fhss-f7c05",
+    "storage_bucket": "fhss-f7c05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297192391974:android:2c06ee334f63cac2ebade7",
+        "android_client_info": {
+          "package_name": "com.fhss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297192391974-sd2kmb21c8gpq6m2psseq95t19aift5q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc0V9BK7d4kyOiN22k6N3mgEhEELQfZyE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297192391974-sd2kmb21c8gpq6m2psseq95t19aift5q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
